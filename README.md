@@ -1,4 +1,4 @@
-## 🌟 Olá, eu sou Lucas Brandão!
+## 🌟 Hello world, eu sou Lucas Brandão!
 
 ## 🚀 Sobre mim
 
