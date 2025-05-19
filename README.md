@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasbrandaocabral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left">💼 Habilidades</p>
-
-###
+## <p align="left">💼 Habilidades</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -23,17 +19,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+## <p align="left">🛠️ Projetos em Destaque<br>https://github.com/Lucasbrandaocabral/Peanut__Drinks</p>
 
-<p align="left">🛠️ Projetos em Destaque<br>https://github.com/Lucasbrandaocabral/Peanut__Drinks</p>
 
-###
+## <p align="left">📫 Contato</p>
 
-<p align="left">📫 Contato</p>
 
-###
-
-<div align="left">
+## <div align="left">
   <a href="https://www.linkedin.com/in/lucasbrandaocabral/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -44,5 +36,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
