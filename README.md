@@ -71,7 +71,7 @@ const lucas = {
 
 <div align="center">
 
-[![Peanut Drinks](https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Peanut__Drinks&theme=tokyonight&hide_border=true)](https://github.com/Lucasbrandaocabral/Peanut__Drinks)
+[![SOLE](https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true)](https://github.com/Lucasbrandaocabral/SOLE)
 [![Detalhes Uniformes](https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Detalhes-Uniformes&theme=tokyonight&hide_border=true)](https://github.com/Lucasbrandaocabral/Detalhes-Uniformes)
 
 </div>
