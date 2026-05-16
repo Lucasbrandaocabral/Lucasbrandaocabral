@@ -24,10 +24,10 @@ Atualmente construindo projetos com React, explorando o ecossistema mobile e sem
 
 <div align="center">
   <a href="https://github.com/Lucasbrandaocabral/SOLE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Lucasbrandaocabral/Portfolio-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Portfolio-2026&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Portfolio-2026&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -42,8 +42,8 @@ Atualmente construindo projetos com React, explorando o ecossistema mobile e sem
 ## stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
