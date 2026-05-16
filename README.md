@@ -13,7 +13,7 @@ Atualmente construindo projetos com React, explorando o ecossistema mobile e sem
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -22,14 +22,16 @@ Atualmente construindo projetos com React, explorando o ecossistema mobile e sem
 
 ## projetos em destaque
 
-<a href="https://github.com/Lucasbrandaocabral/SOLE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Lucasbrandaocabral/Portfolio-2026">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Portfolio-2026&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/Lucasbrandaocabral/SOLE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Lucasbrandaocabral/Portfolio-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Portfolio-2026&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-<br/><br/>
+<br/>
 
 **[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** — e-commerce de sneakers com React 19, Framer Motion, carrinho animado, tema dark/light e cursor customizado. Esse foi feito com carinho nos detalhes.
 
