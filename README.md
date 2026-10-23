@@ -41,15 +41,17 @@ Com o tempo deu pra perceber que quase todo processo chato tem um sistema escond
 |:--:|:--|:--|
 | 01 | **Portal do Usuário** · gestão de uma instituição: cadastro de beneficiários, lista de chamada que já sabe dos feriados e emendas, 2FA | `EM PRODUÇÃO` |
 | 02 | **[MAIA Uniformes](https://maia-uniformes.vercel.app)** · site de uniformes escolares com chatbot e atendimento direto no WhatsApp | `NO AR` |
-| 03 | **[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** e **[SOLE Mobile](https://github.com/Lucasbrandaocabral/sole-mobile-app)** · e-commerce de tênis, na web e no celular | `ATINGIDA` |
-| 04 | **[HoloFrame](https://github.com/Lucasbrandaocabral/HoloFrame)** · rastreia a mão em tempo real e transforma a webcam num HUD | `ATINGIDA` |
-| 05 | **[Piano](https://github.com/Lucasbrandaocabral/Piano)** · lê MIDI e toca sozinho, porque cansei de tocar na mão no Roblox | `ATINGIDA` |
-| 06 | **[AutoDraw](https://github.com/Lucasbrandaocabral/autodraw)** · o primo do Piano: em vez de tocar, desenha | `ATINGIDA` |
-| 07 | **[Gerador de Figurinhas](https://github.com/Lucasbrandaocabral/gerador-de-figurinhas)** · figurinha de álbum da Copa feita no navegador, pronta pra imprimir | `ATINGIDA` |
-| 08 | **[GeoFinder](https://github.com/Lucasbrandaocabral/GeoFinder)** · descobre onde uma foto foi tirada, com Gemini ([demo](https://lucasbrandaocabral.github.io/GeoFinder/)) | `ATINGIDA` |
-| 09 | **[Analisador de Hábitos](https://github.com/Lucasbrandaocabral/analisador-de-habitos)** · lê o histórico do navegador e dá nota pro seu dia | `EM EXECUÇÃO` |
-| 10 | **Transitá** · portal de colaboradores feito pro Senac | `ENTREGUE` |
-| 11 | **Automações administrativas** · macros que montam cardápio e lista de presença sozinhas | `EM USO` |
+| 03 | **[PDF Acrobat](https://github.com/Lucasbrandaocabral/pdfacrobat)** · leitor e editor de PDF pra desktop, navegador e celular: edita o texto da página, carimba e assina até com certificado digital | `EM EXECUÇÃO` |
+| 04 | **[Pokédex Pocket](https://github.com/Lucasbrandaocabral/Pokedex)** · começou como minha primeira Pokédex com a PokeAPI e virou jogo de colecionar cartas, com álbum e troca entre amigos ([jogar](https://pokepalword.vercel.app/)) | `NO AR` |
+| 05 | **[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** e **[SOLE Mobile](https://github.com/Lucasbrandaocabral/sole-mobile-app)** · e-commerce de tênis, na web e no celular | `ATINGIDA` |
+| 06 | **[HoloFrame](https://github.com/Lucasbrandaocabral/HoloFrame)** · rastreia a mão em tempo real e transforma a webcam num HUD | `ATINGIDA` |
+| 07 | **[Piano](https://github.com/Lucasbrandaocabral/Piano)** · lê MIDI e toca sozinho, porque cansei de tocar na mão no Roblox | `ATINGIDA` |
+| 08 | **[AutoDraw](https://github.com/Lucasbrandaocabral/autodraw)** · o primo do Piano: em vez de tocar, desenha | `ATINGIDA` |
+| 09 | **[Gerador de Figurinhas](https://github.com/Lucasbrandaocabral/gerador-de-figurinhas)** · figurinha de álbum da Copa feita no navegador, pronta pra imprimir | `ATINGIDA` |
+| 10 | **[GeoFinder](https://github.com/Lucasbrandaocabral/GeoFinder)** · descobre onde uma foto foi tirada, com Gemini ([demo](https://lucasbrandaocabral.github.io/GeoFinder/)) | `ATINGIDA` |
+| 11 | **[Analisador de Hábitos](https://github.com/Lucasbrandaocabral/analisador-de-habitos)** · lê o histórico do navegador e dá nota pro seu dia | `EM EXECUÇÃO` |
+| 12 | **Transitá** · portal de colaboradores feito pro Senac | `ENTREGUE` |
+| 13 | **Automações administrativas** · macros que montam cardápio e lista de presença sozinhas | `EM USO` |
 
 ### CLÁUSULA QUINTA - DAS DESPESAS GLOSADAS
 
