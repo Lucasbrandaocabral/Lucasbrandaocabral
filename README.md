@@ -1,141 +1,91 @@
-# Oi, eu sou o Lucas 👋
-
-Desenvolvedor front-end de São Paulo, obcecado com interfaces bonitas, animações fluidas e código que não envergonha nos code reviews.
-
-Hoje mantenho um sistema de gestão rodando em produção (React + Node/Prisma), sigo explorando o **ecossistema mobile** — de React + Capacitor a **Kotlin nativo** no Android e Wear OS — e brincando com **visão computacional** e **IA** nos projetos pessoais. TypeScript, Node.js, Python, o de sempre.
-
----
-
-## stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## projetos
-
-<sub>clica nas seções pra abrir</sub>
-
-<details open>
-<summary><b>🛍️ Web e e-commerce</b> &nbsp;·&nbsp; <sub>2 projetos</sub></summary>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Lucasbrandaocabral/SOLE">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=SOLE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Lucasbrandaocabral/sole-mobile-app">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=sole-mobile-app&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-**[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** é um e-commerce de sneakers com React 19, Framer Motion, carrinho animado, tema dark/light e cursor customizado. Feito com carinho nos detalhes.
-
-**[SOLE Mobile](https://github.com/Lucasbrandaocabral/sole-mobile-app)** é a versão mobile do SOLE, com React + Capacitor. Bottom nav com spring physics, cards com 3D tilt, modal full-screen com swipe e bottom sheets animados. Experiência de app nativo.
-
-</details>
-
-<details>
-<summary><b>👁️ Visão computacional e automação</b> &nbsp;·&nbsp; <sub>3 projetos</sub></summary>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Lucasbrandaocabral/HoloFrame">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=HoloFrame&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Lucasbrandaocabral/Piano">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=Piano&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Lucasbrandaocabral/autodraw">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=autodraw&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-**[HoloFrame](https://github.com/Lucasbrandaocabral/HoloFrame)** faz rastreamento holográfico de mãos em tempo real com Python, OpenCV e MediaPipe. Transforma a webcam numa interface estilo HUD sci-fi, com 7 efeitos (trilha de luz, glitch, desenho no ar e mais). Só a webcam, sem hardware especial.
-
-**[Piano](https://github.com/Lucasbrandaocabral/Piano)** nasceu porque cansei de tocar piano na mão nos joguinhos do Roblox. É um programa em Python que lê arquivos MIDI e toca sozinho, apertando as teclas no tempo certo. Controle de velocidade ao vivo, atalhos globais e uma interface escura decente (nada de tkinter cinza dos anos 2000).
-
-**[AutoDraw](https://github.com/Lucasbrandaocabral/autodraw)** é o primo do Piano: em vez de tocar, ele desenha. Recebe uma imagem, calibra a área sozinho e reproduz o traço com o mouse, sem IA nenhuma no meio do caminho.
-
-</details>
-
-<details>
-<summary><b>🧰 Ferramentas que rodam no navegador</b> &nbsp;·&nbsp; <sub>2 projetos</sub></summary>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Lucasbrandaocabral/gerador-de-figurinhas">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=gerador-de-figurinhas&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Lucasbrandaocabral/GeoFinder">
-    <img src="https://github-readme-stats-kappa-liard-82.vercel.app/api/pin/?username=Lucasbrandaocabral&repo=GeoFinder&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-**[Gerador de Figurinhas](https://github.com/Lucasbrandaocabral/gerador-de-figurinhas)** faz figurinhas estilo álbum de Copa do Mundo direto no navegador: foto com remoção automática de fundo, numerão em relevo, edições especiais metálicas e folha A4 pronta pra imprimir e recortar. Nenhuma imagem sai do seu navegador.
-
-**[GeoFinder](https://github.com/Lucasbrandaocabral/GeoFinder)** recebe uma foto e descobre onde ela foi tirada usando Google Gemini Flash. Retorna cidade, coordenadas, nível de confiança e um mapa interativo. [Tem demo online.](https://lucasbrandaocabral.github.io/GeoFinder/)
-
-</details>
-
----
-
-## em produção
-
-**Portal do Usuário** é um sistema interno de gestão que desenvolvi para uma instituição: cadastro de beneficiários, listas de chamada geradas automaticamente (com feriados e emendas), dashboards de ocupação por sala e controle de acesso por perfil com 2FA. React + Vite no front, Node/Express + Prisma/PostgreSQL no back. O repositório é privado, mas é o projeto que mais me ensinou sobre software de verdade.
-
-**[MAIA Uniformes](https://maia-uniformes.vercel.app)** é a landing page institucional de uma empresa de uniformes escolares, com carrossel de tecidos em flip-card, chatbot de atendimento e conversão direto pro WhatsApp. [No ar aqui.](https://maia-uniformes.vercel.app) Faz par com o dashboard de gestão da mesma empresa (React 19, TypeScript, Tailwind 4, tRPC e Drizzle), esse em repositório privado.
-
-<details>
-<summary><b>tem mais rolando por aqui</b></summary>
-
-<br>
-
-O **[analisador-de-habitos](https://github.com/Lucasbrandaocabral/analisador-de-habitos)** (Python/FastAPI + React) lê o histórico do navegador e calcula um score de produtividade do seu dia.
-
-O **Transitá** é um portal de colaboradores que fiz pro SENAC, em repositório privado.
-
-E o **[Portfolio 2026](https://github.com/Lucasbrandaocabral/Portfolio-2026)** documenta a jornada desde o HTML puro até aqui.
-
-</details>
-
----
-
-## stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="./assets/capa.svg" width="100%" alt="Capa de processo administrativo da Secretaria Municipal de Código e Café. Interessado: Lucas. Assunto: prestação de contas de uma carreira. Situação: em execução.">
 </p>
 
----
+> *Autue-se. Publique-se. Cumpra-se.*
 
-## onde me achar
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasbrandaocabral)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lucasz.brandao)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/lucasbrandaocabral)
+### CLÁUSULA PRIMEIRA - DO OBJETO
 
----
+O presente instrumento tem por objeto apresentar **Lucas**, desenvolvedor full-stack que passou os últimos anos sentado entre duas mesas: numa, o ofício, a planilha e o prazo da prestação de contas; na outra, o editor de código.
 
-> *"O código é como humor. Quando você precisa explicar, é porque não ficou bom."*
-> <br>Cory House
+Com o tempo deu pra perceber que quase todo processo chato tem um sistema escondido dentro dele, esperando alguém escrever. É isso que eu faço.
+
+### CLÁUSULA SEGUNDA - DO HISTÓRICO FUNCIONAL
+
+| Período | Lotação | O que ficou |
+|:--|:--|:--|
+| 2022 a 2024 | Agente SUAS, CRAS | Atrás de todo cadastro tem uma pessoa esperando no balcão |
+| 2025 | Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul | O diploma e o hábito de estudar de madrugada |
+| 2025 até hoje | Administrativo e financeiro numa OSC da assistência social | Plano de aplicação, conciliação bancária, rubrica, glosa |
+| 2026 | Senac | Curso concluído em julho |
+| em vigor | [TuringDev](https://sejaturing.com.br) e Olit | As duas agências que abri com meus sócios |
+
+### CLÁUSULA TERCEIRA - DOS RECURSOS EMPREGADOS
+
+| Rubrica | Item | Justificativa técnica |
+|:--:|:--|:--|
+| 3.1 | React, TypeScript e Vite | Tela que o usuário entende sem precisar de treinamento |
+| 3.2 | Tailwind e Framer Motion | Pra interface ter movimento sem parecer slide de PowerPoint |
+| 3.3 | Node.js, Express, Prisma e PostgreSQL | Onde os dados finalmente param de morar em planilha |
+| 3.4 | Capacitor e Kotlin | Mobile, do híbrido ao nativo, Wear OS incluso |
+| 3.5 | Python, OpenCV e MediaPipe | Webcam, rastreamento de mão e scripts que ninguém pediu |
+| 3.6 | VBA | Onde tudo começou. Resolve mais coisa do que muita gente admite |
+| 3.7 | Figma | Antes de codar, eu rabisco |
+| 3.8 | Vercel e Render | Pra subir na sexta e dormir tranquilo (às vezes) |
+
+### CLÁUSULA QUARTA - DAS METAS PACTUADAS
+
+| Meta | Descrição | Situação |
+|:--:|:--|:--|
+| 01 | **Portal do Usuário** · gestão de uma instituição: cadastro de beneficiários, lista de chamada que já sabe dos feriados e emendas, 2FA | `EM PRODUÇÃO` |
+| 02 | **[MAIA Uniformes](https://maia-uniformes.vercel.app)** · site de uniformes escolares com chatbot e atendimento direto no WhatsApp | `NO AR` |
+| 03 | **[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** e **[SOLE Mobile](https://github.com/Lucasbrandaocabral/sole-mobile-app)** · e-commerce de tênis, na web e no celular | `ATINGIDA` |
+| 04 | **[HoloFrame](https://github.com/Lucasbrandaocabral/HoloFrame)** · rastreia a mão em tempo real e transforma a webcam num HUD | `ATINGIDA` |
+| 05 | **[Piano](https://github.com/Lucasbrandaocabral/Piano)** · lê MIDI e toca sozinho, porque cansei de tocar na mão no Roblox | `ATINGIDA` |
+| 06 | **[AutoDraw](https://github.com/Lucasbrandaocabral/autodraw)** · o primo do Piano: em vez de tocar, desenha | `ATINGIDA` |
+| 07 | **[Gerador de Figurinhas](https://github.com/Lucasbrandaocabral/gerador-de-figurinhas)** · figurinha de álbum da Copa feita no navegador, pronta pra imprimir | `ATINGIDA` |
+| 08 | **[GeoFinder](https://github.com/Lucasbrandaocabral/GeoFinder)** · descobre onde uma foto foi tirada, com Gemini ([demo](https://lucasbrandaocabral.github.io/GeoFinder/)) | `ATINGIDA` |
+| 09 | **[Analisador de Hábitos](https://github.com/Lucasbrandaocabral/analisador-de-habitos)** · lê o histórico do navegador e dá nota pro seu dia | `EM EXECUÇÃO` |
+| 10 | **Transitá** · portal de colaboradores feito pro Senac | `ENTREGUE` |
+| 11 | **Automações administrativas** · macros que montam cardápio e lista de presença sozinhas | `EM USO` |
+
+### CLÁUSULA QUINTA - DAS DESPESAS GLOSADAS
+
+Em atenção ao princípio da transparência, declaro as seguintes despesas não reconhecidas no exercício:
+
+- 1 (um) arquivo `.env` que quase subiu junto no commit;
+- 1 (uma) macro em VBA que só funcionava no meu Excel;
+- 1 (um) nome de domínio que já tinha dono quando eu cheguei;
+- commits com a mensagem `agora vai`, em reincidência;
+- projetos começados num domingo à noite, em quantidade mantida sob sigilo.
+
+Os valores foram restituídos ao erário na forma de aprendizado.
+
+### CLÁUSULA SEXTA - DO SALDO REMANESCENTE
+
+O saldo deste exercício está disponível para aplicação em novos projetos: sistemas web, automação de rotina administrativa e sites que precisam sair do papel. Pedidos de remanejamento podem ser protocolados pelo [LinkedIn](https://linkedin.com/in/lucasbrandaocabral), pelo [Instagram](https://instagram.com/lucasz.brandao) ou abrindo uma [issue](https://github.com/Lucasbrandaocabral/Lucasbrandaocabral/issues) neste repositório.
+
+### CLÁUSULA SÉTIMA - DO FORO
+
+Fica eleito o foro de Guaianases, Zona Leste de São Paulo, para dirimir quaisquer dúvidas oriundas deste documento, com renúncia expressa a qualquer outro, por mais privilegiado que seja. Dúvidas sobre código também são aceitas.
+
+E, por estar de acordo, firmo o presente.
+
+<br>
+
+<p align="center">
+  <img src="./assets/assinatura.svg" width="100%" alt="Folha de assinatura: declaração de veracidade, assinatura de Lucas e carimbo de confere com o original.">
+</p>
+
+<br>
+
+### ANEXO I - EXTRATO DE MOVIMENTAÇÃO
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&hide_border=true&count_private=true&locale=pt-br&bg_color=f3eddf&title_color=2a2723&text_color=2a2723&icon_color=b02a22" alt="Estatísticas do GitHub">
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&hide_border=true&langs_count=6&locale=pt-br&bg_color=f3eddf&title_color=2a2723&text_color=2a2723" alt="Linguagens mais usadas">
+</p>
+
+<p align="center"><sub>Este processo contém 02 (duas) folhas numeradas e rubricadas, 01 (um) anexo e um número indeterminado de commits.</sub></p>
