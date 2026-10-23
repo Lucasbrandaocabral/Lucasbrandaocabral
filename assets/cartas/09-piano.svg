@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 350" width="250" height="350" role="img" aria-label="Carta Piano: Toca MIDI sozinho. Fiz porque cansei de tocar piano na mão no Roblox kk">
+<defs>
+  <linearGradient id="bordapiano" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6ea8ff"/><stop offset="0.5" stop-color="#2f4f96"/><stop offset="1" stop-color="#5a8ff0"/>
+  </linearGradient>
+  <clipPath id="cortepiano"><rect x="0.5" y="0.5" width="249" height="349" rx="14"/></clipPath>
+  <clipPath id="artepiano"><rect width="218" height="130" rx="7"/></clipPath>
+  <linearGradient id="fundopiano" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.30"/><stop offset="0.45" stop-color="#121628"/><stop offset="1" stop-color="#0c0f1c"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="249" height="349" rx="14" fill="url(#bordapiano)"/>
+<rect x="7" y="7" width="236" height="336" rx="9" fill="#0e1120"/>
+<rect x="7" y="7" width="236" height="336" rx="9" fill="url(#fundopiano)"/>
+<text x="18" y="33" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#ffffff">Piano</text>
+<text x="18" y="49" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.4" fill="#a855f7">PYTHON · AUTOMAÇÃO</text>
+<g transform="translate(16 60)">
+  <g clip-path="url(#artepiano)"><defs><linearGradient id="fpi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b0764"/><stop offset="1" stop-color="#170326"/></linearGradient></defs>
+<rect width="218" height="130" fill="url(#fpi)"/>
+<rect x="0" y="66" width="218" height="64" fill="#0b0b14"/>
+<rect x="4" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="25" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="46" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="67" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="88" y="72" width="20" height="54" rx="2" fill="#e9d5ff"/><rect x="109" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="130" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="151" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="172" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="193" y="72" width="20" height="54" rx="2" fill="#f8fafc"/><rect x="18" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="39" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="81" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="102" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="123" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="165" y="72" width="12" height="33" rx="1.5" fill="#111827"/><rect x="186" y="72" width="12" height="33" rx="1.5" fill="#111827"/>
+<rect x="88" y="66" width="20" height="8" fill="#a855f7" opacity="0.8"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.3s" repeatCount="indefinite"/></rect>
+<g transform="translate(96 58) scale(1)" fill="#e9d5ff"><ellipse cx="0" cy="0" rx="5" ry="3.8" transform="rotate(-20)"/><rect x="3.6" y="-20" width="1.8" height="20"/><path d="M5.4 -20 C12 -16 14 -11 10 -6 C12 -11 9 -14 5.4 -14 Z"/><animateTransform attributeName="transform" type="translate" values="96 58;100 32" dur="2.6s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0s" repeatCount="indefinite"/></g><g transform="translate(60 54) scale(0.8)" fill="#e9d5ff"><ellipse cx="0" cy="0" rx="5" ry="3.8" transform="rotate(-20)"/><rect x="3.6" y="-20" width="1.8" height="20"/><path d="M5.4 -20 C12 -16 14 -11 10 -6 C12 -11 9 -14 5.4 -14 Z"/><animateTransform attributeName="transform" type="translate" values="60 54;64 28" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></g><g transform="translate(140 56) scale(0.9)" fill="#e9d5ff"><ellipse cx="0" cy="0" rx="5" ry="3.8" transform="rotate(-20)"/><rect x="3.6" y="-20" width="1.8" height="20"/><path d="M5.4 -20 C12 -16 14 -11 10 -6 C12 -11 9 -14 5.4 -14 Z"/><animateTransform attributeName="transform" type="translate" values="140 56;144 30" dur="2.6s" begin="1.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.7s" repeatCount="indefinite"/></g></g>
+  <rect width="218" height="130" rx="7" fill="none" stroke="#fff" stroke-opacity="0.16"/>
+</g>
+<text x="18" y="214" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">Toca MIDI sozinho. Fiz porque</text><text x="18" y="231" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">cansei de tocar piano na mão</text><text x="18" y="248" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">no Roblox kk</text>
+<line x1="18" y1="270" x2="232" y2="270" stroke="#fff" stroke-opacity="0.1"/>
+<text x="18" y="290" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8f99bd">python</text>
+<text x="18" y="327" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6d7596">009/011</text>
+<polygon points="226.00,317.00 227.45,320.50 231.23,320.80 228.35,323.26 229.23,326.95 226.00,324.98 222.77,326.95 223.65,323.26 220.77,320.80 224.55,320.50" fill="#9ec0ff"/>
+
+</svg>

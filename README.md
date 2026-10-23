@@ -1,93 +1,58 @@
-<p align="center">
-  <img src="./assets/capa.svg" width="100%" alt="Capa de processo administrativo da Secretaria Municipal de Código e Café. Interessado: Lucas. Assunto: prestação de contas de uma carreira. Situação: em execução.">
-</p>
+<img src="./assets/carta-lucas.svg" width="330" align="right" alt="Carta colecionável do Lucas, dev full-stack, com os ataques Planilha vira Sistema e Deploy de Sexta.">
 
-> *Autue-se. Publique-se. Cumpra-se.*
+## oi, eu sou o Lucas
 
-<br>
+Dev full-stack da zona leste de SP. Gosto de interface bonita, animação que não trava e de pegar um processo chato e transformar em sistema.
 
-### CLÁUSULA PRIMEIRA - DO OBJETO
+De dia eu cuido do administrativo e financeiro de uma OSC. No resto do tempo tô programando alguma coisa, normalmente um projeto que ninguém pediu kk
 
-O presente instrumento tem por objeto apresentar **Lucas**, desenvolvedor full-stack que passou os últimos anos sentado entre duas mesas: numa, o ofício, a planilha e o prazo da prestação de contas; na outra, o editor de código.
+Antes disso trabalhei no CRAS atendendo gente no balcão. Foi lá que eu entendi que todo sistema tem uma pessoa do outro lado da tela.
 
-Com o tempo deu pra perceber que quase todo processo chato tem um sistema escondido dentro dele, esperando alguém escrever. É isso que eu faço.
+Hoje também faço sites e sistemas na [TuringDev](https://sejaturing.com.br) e na Olit, as agências que montei com meus sócios.
 
-### CLÁUSULA SEGUNDA - DO HISTÓRICO FUNCIONAL
+<br clear="right">
 
-| Período | Lotação | O que ficou |
-|:--|:--|:--|
-| 2022 a 2024 | Agente SUAS, CRAS | Atrás de todo cadastro tem uma pessoa esperando no balcão |
-| 2025 | Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul | O diploma e o hábito de estudar de madrugada |
-| 2025 até hoje | Administrativo e financeiro numa OSC da assistência social | Plano de aplicação, conciliação bancária, rubrica, glosa |
-| 2026 | Senac | Curso concluído em julho |
-| em vigor | [TuringDev](https://sejaturing.com.br) e Olit | As duas agências que abri com meus sócios |
+## minha coleção
 
-### CLÁUSULA TERCEIRA - DOS RECURSOS EMPREGADOS
-
-| Rubrica | Item | Justificativa técnica |
-|:--:|:--|:--|
-| 3.1 | React, TypeScript e Vite | Tela que o usuário entende sem precisar de treinamento |
-| 3.2 | Tailwind e Framer Motion | Pra interface ter movimento sem parecer slide de PowerPoint |
-| 3.3 | Node.js, Express, Prisma e PostgreSQL | Onde os dados finalmente param de morar em planilha |
-| 3.4 | Capacitor e Kotlin | Mobile, do híbrido ao nativo, Wear OS incluso |
-| 3.5 | Python, OpenCV e MediaPipe | Webcam, rastreamento de mão e scripts que ninguém pediu |
-| 3.6 | VBA | Onde tudo começou. Resolve mais coisa do que muita gente admite |
-| 3.7 | Figma | Antes de codar, eu rabisco |
-| 3.8 | Vercel e Render | Pra subir na sexta e dormir tranquilo (às vezes) |
-
-### CLÁUSULA QUARTA - DAS METAS PACTUADAS
-
-| Meta | Descrição | Situação |
-|:--:|:--|:--|
-| 01 | **Portal do Usuário** · gestão de uma instituição: cadastro de beneficiários, lista de chamada que já sabe dos feriados e emendas, 2FA | `EM PRODUÇÃO` |
-| 02 | **[MAIA Uniformes](https://maia-uniformes.vercel.app)** · site de uniformes escolares com chatbot e atendimento direto no WhatsApp | `NO AR` |
-| 03 | **[PDF Acrobat](https://github.com/Lucasbrandaocabral/pdfacrobat)** · leitor e editor de PDF pra desktop, navegador e celular: edita o texto da página, carimba e assina até com certificado digital | `EM EXECUÇÃO` |
-| 04 | **[Pokédex Pocket](https://github.com/Lucasbrandaocabral/Pokedex)** · começou como minha primeira Pokédex com a PokeAPI e virou jogo de colecionar cartas, com álbum e troca entre amigos ([jogar](https://pokepalword.vercel.app/)) | `NO AR` |
-| 05 | **[SOLE](https://github.com/Lucasbrandaocabral/SOLE)** e **[SOLE Mobile](https://github.com/Lucasbrandaocabral/sole-mobile-app)** · e-commerce de tênis, na web e no celular | `ATINGIDA` |
-| 06 | **[HoloFrame](https://github.com/Lucasbrandaocabral/HoloFrame)** · rastreia a mão em tempo real e transforma a webcam num HUD | `ATINGIDA` |
-| 07 | **[Piano](https://github.com/Lucasbrandaocabral/Piano)** · lê MIDI e toca sozinho, porque cansei de tocar na mão no Roblox | `ATINGIDA` |
-| 08 | **[AutoDraw](https://github.com/Lucasbrandaocabral/autodraw)** · o primo do Piano: em vez de tocar, desenha | `ATINGIDA` |
-| 09 | **[Gerador de Figurinhas](https://github.com/Lucasbrandaocabral/gerador-de-figurinhas)** · figurinha de álbum da Copa feita no navegador, pronta pra imprimir | `ATINGIDA` |
-| 10 | **[GeoFinder](https://github.com/Lucasbrandaocabral/GeoFinder)** · descobre onde uma foto foi tirada, com Gemini ([demo](https://lucasbrandaocabral.github.io/GeoFinder/)) | `ATINGIDA` |
-| 11 | **[Analisador de Hábitos](https://github.com/Lucasbrandaocabral/analisador-de-habitos)** · lê o histórico do navegador e dá nota pro seu dia | `EM EXECUÇÃO` |
-| 12 | **Transitá** · portal de colaboradores feito pro Senac | `ENTREGUE` |
-| 13 | **Automações administrativas** · macros que montam cardápio e lista de presença sozinhas | `EM USO` |
-
-### CLÁUSULA QUINTA - DAS DESPESAS GLOSADAS
-
-Em atenção ao princípio da transparência, declaro as seguintes despesas não reconhecidas no exercício:
-
-- 1 (um) arquivo `.env` que quase subiu junto no commit;
-- 1 (uma) macro em VBA que só funcionava no meu Excel;
-- 1 (um) nome de domínio que já tinha dono quando eu cheguei;
-- commits com a mensagem `agora vai`, em reincidência;
-- projetos começados num domingo à noite, em quantidade mantida sob sigilo.
-
-Os valores foram restituídos ao erário na forma de aprendizado.
-
-### CLÁUSULA SEXTA - DO SALDO REMANESCENTE
-
-O saldo deste exercício está disponível para aplicação em novos projetos: sistemas web, automação de rotina administrativa e sites que precisam sair do papel. Pedidos de remanejamento podem ser protocolados pelo [LinkedIn](https://linkedin.com/in/lucasbrandaocabral), pelo [Instagram](https://instagram.com/lucasz.brandao) ou abrindo uma [issue](https://github.com/Lucasbrandaocabral/Lucasbrandaocabral/issues) neste repositório.
-
-### CLÁUSULA SÉTIMA - DO FORO
-
-Fica eleito o foro de Guaianases, Zona Leste de São Paulo, para dirimir quaisquer dúvidas oriundas deste documento, com renúncia expressa a qualquer outro, por mais privilegiado que seja. Dúvidas sobre código também são aceitas.
-
-E, por estar de acordo, firmo o presente.
-
-<br>
+<sub>11 cartas. Clica em uma pra abrir o projeto.</sub>
 
 <p align="center">
-  <img src="./assets/assinatura.svg" width="100%" alt="Folha de assinatura: declaração de veracidade, assinatura de Lucas e carimbo de confere com o original.">
+  <img src="./assets/cartas/01-portal.svg" width="31%" alt="Portal do Usuário: sistema de gestão em produção (repositório privado)">
+  <a href="https://github.com/Lucasbrandaocabral/pdfacrobat"><img src="./assets/cartas/02-pdf.svg" width="31%" alt="PDF Acrobat: leitor e editor de PDF"></a>
+  <a href="https://github.com/Lucasbrandaocabral/Pokedex"><img src="./assets/cartas/03-pokedex.svg" width="31%" alt="Pokédex Pocket: jogo de colecionar cartas no navegador"></a>
+</p>
+<p align="center">
+  <a href="https://maia-uniformes.vercel.app"><img src="./assets/cartas/04-maia.svg" width="31%" alt="MAIA Uniformes: site institucional no ar"></a>
+  <a href="https://github.com/Lucasbrandaocabral/SOLE"><img src="./assets/cartas/05-sole.svg" width="31%" alt="SOLE: e-commerce de tênis"></a>
+  <a href="https://github.com/Lucasbrandaocabral/GeoFinder"><img src="./assets/cartas/06-geofinder.svg" width="31%" alt="GeoFinder: descobre onde uma foto foi tirada"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Lucasbrandaocabral/analisador-de-habitos"><img src="./assets/cartas/07-habitos.svg" width="31%" alt="Analisador de Hábitos: nota de produtividade do seu dia"></a>
+  <a href="https://github.com/Lucasbrandaocabral/HoloFrame"><img src="./assets/cartas/08-holoframe.svg" width="31%" alt="HoloFrame: rastreamento de mão com webcam"></a>
+  <a href="https://github.com/Lucasbrandaocabral/Piano"><img src="./assets/cartas/09-piano.svg" width="31%" alt="Piano: toca arquivos MIDI sozinho"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Lucasbrandaocabral/autodraw"><img src="./assets/cartas/10-autodraw.svg" width="31%" alt="AutoDraw: desenha imagens com o mouse"></a>
+  <img src="./assets/cartas/11-proxima.svg" width="31%" alt="Carta misteriosa: próximo projeto">
 </p>
 
-<br>
+## meu deck
 
-### ANEXO I - EXTRATO DE MOVIMENTAÇÃO
+- **front:** React, TypeScript, Vite, Tailwind e Framer Motion
+- **back:** Node, Express, Prisma, PostgreSQL e FastAPI
+- **mobile:** Capacitor e Kotlin, no Android e no Wear OS
+- **python:** OpenCV, MediaPipe e automação de tudo que dá pra automatizar
+- **e o VBA**, que foi onde tudo começou
+
+## números
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&hide_border=true&count_private=true&locale=pt-br&bg_color=f3eddf&title_color=2a2723&text_color=2a2723&icon_color=b02a22" alt="Estatísticas do GitHub">
-  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&hide_border=true&langs_count=6&locale=pt-br&bg_color=f3eddf&title_color=2a2723&text_color=2a2723" alt="Linguagens mais usadas">
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api?username=Lucasbrandaocabral&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="160" src="https://github-readme-stats-kappa-liard-82.vercel.app/api/top-langs/?username=Lucasbrandaocabral&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas">
 </p>
 
-<p align="center"><sub>Este processo contém 02 (duas) folhas numeradas e rubricadas, 01 (um) anexo e um número indeterminado de commits.</sub></p>
+## me chama
+
+[LinkedIn](https://linkedin.com/in/lucasbrandaocabral) · [Instagram](https://instagram.com/lucasz.brandao) · [Discord](https://discord.com/users/lucasbrandaocabral)
+
+<sub>Se curtiu alguma carta, deixa uma ⭐ no repositório dela. Pra mim é tipo abrir pacote.</sub>

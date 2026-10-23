@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 350" width="250" height="350" role="img" aria-label="Carta GeoFinder: Manda uma foto e ele tenta adivinhar onde ela foi tirada, com mapa e tudo.">
+<defs>
+  <linearGradient id="bordageofinder" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f4f6fb"/><stop offset="0.35" stop-color="#9aa3b8"/>
+    <stop offset="0.55" stop-color="#eef1f7"/><stop offset="1" stop-color="#7d869b"/>
+  </linearGradient>
+  <clipPath id="cortegeofinder"><rect x="0.5" y="0.5" width="249" height="349" rx="14"/></clipPath>
+  <clipPath id="artegeofinder"><rect width="218" height="130" rx="7"/></clipPath>
+  <linearGradient id="fundogeofinder" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#10b981" stop-opacity="0.30"/><stop offset="0.45" stop-color="#121628"/><stop offset="1" stop-color="#0c0f1c"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="249" height="349" rx="14" fill="url(#bordageofinder)"/>
+<rect x="7" y="7" width="236" height="336" rx="9" fill="#0e1120"/>
+<rect x="7" y="7" width="236" height="336" rx="9" fill="url(#fundogeofinder)"/>
+<text x="18" y="33" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#ffffff">GeoFinder</text>
+<text x="18" y="49" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.4" fill="#10b981">IA · EXTENSÃO</text>
+<g transform="translate(16 60)">
+  <g clip-path="url(#artegeofinder)"><defs><radialGradient id="fge" cx="0.5" cy="0.4" r="0.8"><stop offset="0" stop-color="#064e3b"/><stop offset="1" stop-color="#03141a"/></radialGradient>
+<radialGradient id="glb" cx="0.38" cy="0.32" r="0.8"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#0c4a6e"/></radialGradient>
+<clipPath id="cglb"><circle cx="128" cy="70" r="46"/></clipPath></defs>
+<rect width="218" height="130" fill="url(#fge)"/>
+<circle cx="128" cy="70" r="46" fill="url(#glb)"/>
+<g clip-path="url(#cglb)" fill="#34d399" opacity="0.85">
+  <path d="M95 40 C105 30 120 34 122 44 C124 54 112 56 110 64 C108 74 98 74 94 66 C90 58 88 48 95 40 Z"/>
+  <path d="M132 54 C142 46 160 50 162 60 C164 72 154 76 150 88 C146 100 136 104 132 96 C128 86 136 78 132 70 C130 64 128 58 132 54 Z"/>
+  <path d="M150 28 C158 26 166 32 164 38 C160 42 152 40 150 28 Z"/>
+</g>
+<g fill="none" stroke="#e0f2fe" stroke-opacity="0.35" stroke-width="0.9">
+  <ellipse cx="128" cy="70" rx="46" ry="46"/><ellipse cx="128" cy="70" rx="23" ry="46"/><line x1="128" y1="24" x2="128" y2="116"/>
+  <ellipse cx="128" cy="70" rx="46" ry="16"/>
+</g>
+<path d="M40 82 C60 30 120 10 150 52" fill="none" stroke="#fde68a" stroke-width="1.6" stroke-dasharray="3 4" opacity="0.9">
+  <animate attributeName="stroke-dashoffset" values="14;0" dur="0.8s" repeatCount="indefinite"/>
+</path>
+<g transform="translate(36 84) rotate(-8)">
+  <rect x="-22" y="-20" width="44" height="46" rx="2" fill="#fff"/>
+  <rect x="-18" y="-16" width="36" height="30" fill="#7dd3fc"/>
+  <path d="M-18 14 L-6 0 L2 8 L8 2 L18 14 Z" fill="#15803d"/><circle cx="10" cy="-8" r="4" fill="#fde047"/>
+</g>
+<g transform="translate(150 54)">
+  <ellipse cy="4" rx="7" ry="2.5" fill="#000" opacity="0.35"/>
+  <path d="M0 3 C-8 -8 -11 -12 -11 -18 A11 11 0 0 1 11 -18 C11 -12 8 -8 0 3 Z" fill="#ef4444" stroke="#fff" stroke-width="1.5"/>
+  <circle cy="-18" r="4" fill="#fff"/>
+  <animateTransform attributeName="transform" type="translate" values="150 54;150 50;150 54" dur="1.6s" repeatCount="indefinite"/>
+</g></g>
+  <rect width="218" height="130" rx="7" fill="none" stroke="#fff" stroke-opacity="0.16"/>
+</g>
+<text x="18" y="214" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">Manda uma foto e ele tenta</text><text x="18" y="231" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">adivinhar onde ela foi tirada,</text><text x="18" y="248" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#d9dff2">com mapa e tudo.</text>
+<line x1="18" y1="270" x2="232" y2="270" stroke="#fff" stroke-opacity="0.1"/>
+<text x="18" y="290" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8f99bd">gemini · js</text>
+<text x="18" y="327" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6d7596">006/011</text>
+<polygon points="226.00,317.00 227.45,320.50 231.23,320.80 228.35,323.26 229.23,326.95 226.00,324.98 222.77,326.95 223.65,323.26 220.77,320.80 224.55,320.50" fill="#e9edf6"/><polygon points="213.00,317.00 214.45,320.50 218.23,320.80 215.35,323.26 216.23,326.95 213.00,324.98 209.77,326.95 210.65,323.26 207.77,320.80 211.55,320.50" fill="#e9edf6"/>
+
+  <g clip-path="url(#cortegeofinder)" pointer-events="none">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-250 0;500 0;500 0" keyTimes="0;0.38;1" dur="5.5s" begin="2.2s" repeatCount="indefinite"/>
+      <rect x="0" y="-40" width="138" height="430" fill="url(#faixageofinder)" transform="skewX(-22)"/>
+    </g>
+  </g>
+  <defs><linearGradient id="faixageofinder" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient></defs>
+</svg>
