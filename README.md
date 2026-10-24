@@ -1,6 +1,6 @@
-<img src="./assets/carta-lucas.svg" width="330" align="right" alt="Carta colecionável do Lucas, dev full-stack, com os ataques Planilha vira Sistema e Deploy de Sexta.">
-
 ## oi, eu sou o Lucas
+
+<img src="./assets/carta-lucas.svg" width="330" align="right" alt="Carta colecionável do Lucas, dev full-stack, com os ataques Planilha vira Sistema e Deploy de Sexta.">
 
 Dev full-stack da zona leste de SP. Gosto de interface bonita, animação que não trava e de pegar um processo chato e transformar em sistema.
 
