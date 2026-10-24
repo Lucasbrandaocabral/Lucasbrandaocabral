@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" width="440" height="320" role="img" aria-label="MAIA Uniformes: Site de uniforme escolar que já tá no ar, com chatbot e atendimento direto no WhatsApp.">
+<defs>
+  <clipPath id="c"><rect x="0.5" y="0.5" width="439" height="319" rx="18"/></clipPath>
+  <radialGradient id="g" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#22c55e" stop-opacity="0.20"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.45" stop-color="#101217" stop-opacity="0"/><stop offset="1" stop-color="#101217" stop-opacity="0.95"/></linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="439" height="319" rx="18" fill="#101217"/>
+<g clip-path="url(#c)">
+  <rect width="440" height="320" fill="url(#g)"/>
+  <g transform="translate(24 176)">
+    <svg width="392" height="150" viewBox="0 0 392 150" preserveAspectRatio="xMidYMin slice"><rect width="392" height="150" fill="#0d1016"/>
+<rect x="18" y="16" width="356" height="150" rx="10" fill="#141821" stroke="#262b35"/>
+<circle cx="34" cy="31" r="3.5" fill="#3a404d"/><circle cx="46" cy="31" r="3.5" fill="#3a404d"/><circle cx="58" cy="31" r="3.5" fill="#3a404d"/>
+<rect x="110" y="25" width="172" height="12" rx="6" fill="#1d222c"/>
+<text x="196" y="34" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', monospace" font-size="8.5" fill="#6b7280">maia-uniformes.vercel.app</text>
+<rect x="18" y="46" width="356" height="1" fill="#262b35"/>
+<rect x="40" y="66" width="130" height="12" rx="3" fill="#e8eaee" opacity="0.85"/>
+<rect x="40" y="86" width="170" height="6" rx="3" fill="#3a404d"/><rect x="40" y="98" width="150" height="6" rx="3" fill="#3a404d"/>
+<rect x="40" y="116" width="78" height="22" rx="11" fill="#1e3a8a"/><rect x="54" y="125" width="50" height="4" rx="2" fill="#93c5fd"/>
+<rect x="232" y="62" width="58" height="74" rx="8" fill="#1d222c"/><rect x="298" y="62" width="58" height="74" rx="8" fill="#1d222c"/>
+<path d="M261 82 l-12 6 -6 12 8 4 3-6 v26 h14 v-26 l3 6 8-4 -6-12 -12-6 c-1 4 -7 4 -8 0 z" fill="#2f3a52"/>
+<path d="M327 82 l-12 6 -6 12 8 4 3-6 v26 h14 v-26 l3 6 8-4 -6-12 -12-6 c-1 4 -7 4 -8 0 z" fill="#2f3a52"/>
+<g transform="translate(346 118)"><circle r="16" fill="#22c55e"/>
+<path d="M-6 -2 a7 7 0 1 1 3 6 l-4 1.2 1.2 -3.6 a7 7 0 0 1 -0.2 -3.6" fill="none" stroke="#fff" stroke-width="1.8"/>
+<circle r="16" fill="none" stroke="#22c55e" stroke-width="1.5"><animate attributeName="r" values="16;26" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2s" repeatCount="indefinite"/></circle></g></svg>
+    <rect width="392" height="150" rx="10" fill="none" stroke="#2a2e38"/>
+  </g>
+  <rect y="230" width="440" height="90" fill="url(#fade)"/>
+</g>
+<rect x="0.5" y="0.5" width="439" height="319" rx="18" fill="none" stroke="#23262e"/>
+<text x="24" y="40" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#6b7280">SITE</text>
+<rect x="358" y="24" width="62" height="24" rx="12" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.28"/><circle cx="370" cy="36" r="3.5" fill="#22c55e"/><circle cx="370.5" cy="36" r="3.5" fill="none" stroke="#22c55e" stroke-width="1.2"><animate attributeName="r" values="3.5;9" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.2s" repeatCount="indefinite"/></circle><text x="380" y="40.2" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#22c55e">no ar</text>
+<text x="24" y="84" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="-0.5" fill="#f3f4f6">MAIA Uniformes</text>
+<text x="24" y="112" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9aa1ad">Site de uniforme escolar que já tá no ar,</text>
+<text x="24" y="132" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9aa1ad">com chatbot e atendimento direto no WhatsApp.</text>
+<text x="24" y="158" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5f6673">react · vercel</text>
+</svg>

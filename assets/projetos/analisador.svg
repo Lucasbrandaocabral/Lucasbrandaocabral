@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 214" width="290" height="214" role="img" aria-label="Analisador de Hábitos: Mostra quanto do seu dia foi pro Instagram.">
+<defs>
+  <clipPath id="c"><rect x="0.5" y="0.5" width="289" height="213" rx="18"/></clipPath>
+  <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.22"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0.5" y="0.5" width="289" height="213" rx="18" fill="#101217"/>
+<g clip-path="url(#c)"><rect width="290" height="214" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="289" height="213" rx="18" fill="none" stroke="#23262e"/>
+<text x="22" y="38" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#6b7280">DADOS</text>
+<rect x="168" y="22" width="104" height="24" rx="12" fill="#3b82f6" fill-opacity="0.10" stroke="#3b82f6" stroke-opacity="0.28"/><circle cx="181" cy="34" r="3.5" fill="#3b82f6"/><circle cx="181.1" cy="34" r="3.5" fill="none" stroke="#3b82f6" stroke-width="1.2"><animate attributeName="r" values="3.5;9" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.2s" repeatCount="indefinite"/></circle><text x="190" y="38.2" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#3b82f6">construindo</text>
+<text x="22" y="92" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f3f4f6">Analisador de Hábitos</text>
+<text x="22" y="120" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#9aa1ad">Mostra quanto do seu dia</text>
+<text x="22" y="139" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#9aa1ad">foi pro Instagram.</text>
+<line x1="22" y1="166" x2="268" y2="166" stroke="#23262e"/>
+<text x="22" y="190" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#5f6673">fastapi · react</text>
+<text x="268" y="191" text-anchor="end" font-family="'Inter', 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#5f6673">↗</text>
+</svg>
